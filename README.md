@@ -70,7 +70,7 @@
 ### Клонирование репозитория:
 
 ```bash
-git clone https://github.com/Rashid-Yusubov/Configuration-management.git
+git clone https://github.com/msharokhin/homework1.git
 cd Configuration-management
 ```
 
